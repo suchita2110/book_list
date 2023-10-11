@@ -9,7 +9,6 @@
 /.vscode
 /.angular
 /.editorconfig
-
 # Node
 /node_modules
 npm-debug.log
